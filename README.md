@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Embeded Linux for soft real time operating systems
+- 🔭 I’m currently looking for a job
 
 <!--
 **LucienCH/LucienCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
