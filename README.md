@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in LISV helping people in different projects around light communication and positioning.
+- 🔭 I’m currently working in LISV helping people in different projects around satellite light communication and positioning.
+- 🌱 I’m currently learning Optics and RF signal processing and rust
 
 <!--
 **LucienCH/LucienCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
